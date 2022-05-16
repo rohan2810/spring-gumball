@@ -22,6 +22,8 @@
 ## ![ide](images/19.png)
 ## ![ide](images/20.png)
 
+# Issue faced
+The only issue I faced while working on this was instead of adding the .github/workflows/gradle.yml under the spring-gumball directory, I was adding it under the lab-10 directory. I fixed it by moving the gradle.yml file to the spring-gumball directory.
 ### This example demonstrates the following two GitHub Workflows.
 
 * https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-gradle
